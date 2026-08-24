@@ -143,7 +143,7 @@ Atualmente, meu foco está no ecossistema Java + Spring Boot, estudando e aplica
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 
-<br/>
+<br clear="both"/>
 
 ### DevOps & Ferramentas
 
