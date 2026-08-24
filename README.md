@@ -26,12 +26,12 @@ Atualmente, meu foco está no ecossistema Java + Spring Boot, estudando e aplica
 
 -   ☕ Java & Spring Boot
 -   🔐 Spring Security & JWT
--   🏗️ Arquitetura de software e design de sistemas
+-   🏗️ Arquitetura de software & design de sistemas
 -   🗄️ Bancos de dados relacionais
 -   🌐 Desenvolvimento de APIs REST
 -   🐳 Docker & containerização
 -   🧪 Testes automatizados
--   📡 Mensageria e sistemas distribuídos
+-   📡 Mensageria & sistemas distribuídos
 -   ✨ Clean Code & boas práticas
 
 <p class="left">
