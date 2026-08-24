@@ -51,6 +51,7 @@ Atualmente, meu foco está no ecossistema Java + Spring Boot, estudando e aplica
   <img src="https://img.shields.io/badge/Boas%20Pr%C3%A1ticas-2D3748?style=for-the-badge" />
 
 </p>
+
 ---
 
 ## 🛠️ Tecnologias
@@ -72,6 +73,14 @@ Atualmente, meu foco está no ecossistema Java + Spring Boot, estudando e aplica
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <br/>
 
