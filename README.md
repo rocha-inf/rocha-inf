@@ -41,7 +41,7 @@ Atualmente, meu foco está no ecossistema Java + Spring Boot, estudando e aplica
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design%20de%20Sistema-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados%20Relacional-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados%20Relacionais-336791?style=for-the-badge" />
   <img src="https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Testes%20Automatizados-25A162?style=for-the-badge" />
